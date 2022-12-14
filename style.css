@@ -1,0 +1,548 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+.col{
+
+	padding-top: 20px;
+}
+
+.navbar{
+
+	padding-left: 20px;
+
+}
+
+.img-fluid{
+
+	width: fit-content;
+}
+
+
+
+.carousel-item{
+
+ height: 500px;
+
+}
+
+.dropdown-menu{
+
+min-width: 0px}
+
+li{
+	margin-left: 5px;
+}
+
+h2{
+
+	text-align: center;
+
+}
+
+
+p{
+	margin-left: 5px;
+}
+
+
+footer{
+
+	text-align: center;
+}
+
+body { overflow-x: hidden; }
+
+
+section{
+
+	background-color: black;
+}
+
+.col{
+
+	padding-top: 20px;
+}
+
+.navbar{
+
+	padding-left: 20px;
+
+}
+
+.img-fluid{
+
+	width: fit-content;
+}
+
+
+.carousel-item{
+
+ height: 500px;
+
+}
+
+.dropdown-menu{
+
+min-width: 0px
+
+}
+
+
+
+
+.dutch{
+
+
+	color: orange;	
+	border-style: solid;
+	border-width: 8px;
+	border-color: orange;
+	
+}	
+
+.neverland{
+
+	color: black;
+	background-color: orange;
+
+}
+
+.sn{
+	color: red;
+	background-color: yellow;
+}
+
+.sen{
+
+	;
+	color: green;
+	border-style: solid;
+	border-width: 8px;
+	border-color: yellow;
+}
+
+.eqd{
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: royalblue;
+	
+}
+
+.eq{
+
+	color: yellow;
+	background-color: royalblue;
+}
+
+.host{
+
+	color: white;
+	border-style: solid;
+	border-width: 8px;
+	border-color: maroon;
+}
+
+.qt{
+	color: white;
+	background-color: maroon;
+}
+
+
+.lions{
+
+	color: blue;
+	border-style: solid;
+	border-width: 8px;
+	border-color: red;
+}
+ .eng{
+
+ 	color: white;
+ 	background-color: red;
+ }
+
+.usmnt{
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: blue;
+}
+
+.usa{
+
+	color: red;
+	background-color: blue;
+}
+
+.irn{
+
+	color: green;
+	border-style: solid;
+	border-width: 8px;
+	border-color: red;
+}
+
+.ir{
+
+	color: green;
+	background-color: white;
+}
+
+.dragon{
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: green;
+}
+
+.drgn{
+
+	color: white;
+	background-color: green;
+}
+
+.celeste{
+
+	color: white;
+	border-style: solid;
+	border-width: 8px;
+	border-color: skyblue;
+}
+
+.alb{
+
+	color: white;
+	background-color: skyblue;
+}
+
+.pland{
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: red;
+}
+
+.pl{
+
+	color: white;
+	background-color: red;
+}
+
+.tri{
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: red;
+}
+
+.mx{
+
+	color: white;
+	background-color: green;
+}
+
+.saudi{
+
+	color: white;
+	border-style: solid;
+	border-width: 8px;
+	border-color: white;
+}
+
+.sd{
+
+	color: white;
+	background-color: green;
+}
+
+
+
+.lesbleu{
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: blue
+}
+
+.fr{
+
+	color: white;
+	background-color: blue;
+}
+
+.socceroos{
+
+	color: green;
+	border-style: solid;
+	border-width: 8px;
+	border-color: yellow;
+}
+
+.aus{
+
+	color: green;
+	background-color: yellow;
+}
+
+.tuna{
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: red;
+}
+
+.tun{
+
+	color: white;
+	background-color: red;
+}
+
+.dnmrk{
+
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: red;
+}
+
+.dana{
+
+	color: white;
+	background-color: red;
+}	
+
+.jpan{
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: red;
+}
+
+.jpn{
+
+	color: red;
+	background-color: white;
+}
+
+.espana{
+
+	color: yellow;
+	border-style: solid;
+	border-width: 8px;
+	border-color: red;
+}
+
+.espn{
+
+	color: yellow;
+	background-color: red;
+}
+
+.deutsch{
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: yellow;
+}
+
+.land{
+
+	color: red;
+	background-color: black;
+}
+
+.coast{
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: blue;
+}
+
+.rico{
+
+	color: white;
+	background-color: red;
+}
+
+.marco{
+
+	color: green;
+	border-style: solid;
+	border-width: 8px;
+	border-color: red;
+}
+
+.mrc{
+
+	color: green;
+	background-color: red;
+}
+
+.runnerup{
+
+	color: royalblue;
+	border-style: solid;
+	border-width: 8px;
+	border-color: red;
+}
+
+.redeem{
+
+	color: white;
+	background-color: red;
+}
+
+.red{
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: yellow;
+}
+
+.devil{
+
+	color:yellow ;
+	background-color: black;
+}
+
+.maple{
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: red;
+
+}
+
+.leaf{
+
+	color: white;
+	background-color: red;
+}
+
+.selecao{
+
+	color: green;
+	border-style: solid;
+	border-width: 8px;
+	border-color: royalblue;
+
+}
+
+.brz{
+
+	color: yellow;
+	background-color: royalblue;
+}
+
+.swiss{
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: red;
+}
+
+.cheese{
+
+	color: white;
+	background-color: red;
+
+}
+
+.cmrn{
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: yellow;
+
+}
+
+.cmr{
+
+	color: yellow;
+	background-color: green;
+}
+
+.vidic{
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: royalblue;
+}
+
+.gang{
+
+	color: white;
+	background-color: royalblue;
+}
+
+.port{
+
+	color: green;
+	border-style: solid;
+	border-width: 8px;
+	border-color: red;
+}
+
+.goa{
+
+	color: green;
+	background-color: red;
+}
+
+.korea{
+
+	color: blue;
+	border-style: solid;
+	border-width: 8px;
+	border-color: red;
+}
+
+.sk{
+
+	color: blue;
+	background-color: white;
+}
+
+.golden{
+
+	color: white;
+	border-style: solid;
+	border-width: 8px;
+	border-color: skyblue;
+}
+
+.sun{
+
+	color: white;
+	background-color: skyblue;
+}
+
+.black{
+
+	color: red;
+	border-style: solid;
+	border-width: 8px;
+	border-color: yellow;
+
+}
+
+.star{
+
+	color: red;
+	background-color: green;
+
